@@ -19,7 +19,7 @@ def scrape_website(website):
         html = driver.page_source
         time.sleep(10)
 
+        return html
     finally:
         driver.quit()
 
-print("Test")
