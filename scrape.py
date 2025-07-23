@@ -21,3 +21,5 @@ def scrape_website(website):
 
     finally:
         driver.quit()
+
+print("Test")
