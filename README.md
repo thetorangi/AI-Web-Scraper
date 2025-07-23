@@ -106,13 +106,3 @@ intelliscrape/
 Built with ❤️ by CoderKarma⚡ [https://github.com/thetorangi](https://github.com/thetorangi)
 
 ```
-
----
-
-Let me know if you want:
-- A sample `app.py` boilerplate with `Streamlit + Selenium`
-- An AI summarization example using `LangChain` + `Ollama`
-- Docker support or deployment instructions
-
-Happy to help build it out!
-```
