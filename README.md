@@ -97,9 +97,6 @@ intelliscrape/
 └── README.md
 ```
 
----
-
-
 
 ## 🧑‍💻 Author
 
