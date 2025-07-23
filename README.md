@@ -103,7 +103,7 @@ intelliscrape/
 
 ## 🧑‍💻 Author
 
-Built with ❤️ by CoderKarma⚡ [Your Name or GitHub Handle](https://github.com/thetorangi)
+Built with ❤️ by CoderKarma⚡ [https://github.com/thetorangi](https://github.com/thetorangi)
 
 ```
 
