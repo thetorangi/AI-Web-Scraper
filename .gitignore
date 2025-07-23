@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Streamlit cache and logs
+.streamlit/
+
+# Pytest / coverage
+.pytest_cache/
+coverage.*
+htmlcov/
+.cache/
+
+# Language model outputs or logs
+*.log
+*.tmp
+*.jsonl
+
+# Jupyter Notebooks (if used)
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Browser drivers (for Selenium)
+chromedriver
+geckodriver
+*.exe
