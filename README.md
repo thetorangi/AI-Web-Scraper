@@ -102,4 +102,3 @@ intelliscrape/
 
 Built with ❤️ by CoderKarma⚡ [https://github.com/thetorangi](https://github.com/thetorangi)
 
-```
